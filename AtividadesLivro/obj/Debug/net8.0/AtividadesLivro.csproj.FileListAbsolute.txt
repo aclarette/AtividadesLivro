@@ -1,0 +1,14 @@
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\bin\Debug\net8.0\AtividadesLivro.exe
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\bin\Debug\net8.0\AtividadesLivro.deps.json
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\bin\Debug\net8.0\AtividadesLivro.runtimeconfig.json
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\bin\Debug\net8.0\AtividadesLivro.dll
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\bin\Debug\net8.0\AtividadesLivro.pdb
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.AssemblyInfoInputs.cache
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.AssemblyInfo.cs
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.csproj.CoreCompileInputs.cache
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.dll
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\refint\AtividadesLivro.dll
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.pdb
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\AtividadesLivro.genruntimeconfig.cache
+C:\Users\aclar\source\repos\AtividadesLivro\AtividadesLivro\obj\Debug\net8.0\ref\AtividadesLivro.dll
